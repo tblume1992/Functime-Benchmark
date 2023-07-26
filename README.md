@@ -1,4 +1,7 @@
 # Functime Benchmark
+
+**After discussing with the Functime devs they have agreed that the AutoML needs some more features, after they complete the updates I will re-run the benchmark and publish the results!**
+
 ## TLDR
 Functime's AutoML time series forecasting does not understand how to globally forecast for time series data. Missing vital features to test such as scaling and differencing, the procedure produces terrible results with little hope of obtaining anything particularly useful even if ran until the end of time. Thus it should not be marketed as an AutoML solution (one of my pet peeves) and should not be used unless supplied with feature-rich exogenous data.
 
